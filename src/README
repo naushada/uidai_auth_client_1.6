@@ -1,0 +1,5 @@
+1. Copy public key and private key in folder named keys
+2. go to src directory and issue this command - make
+3. this will create binary named UIDAI in bin folder
+4. go to bin folder and run this command - ./UIDAI www.auth.uidai.gov.in 80
+
